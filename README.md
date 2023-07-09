@@ -11,7 +11,7 @@
 
 
 
-- 🌱 I’m currently learning **FrontEndTopics**
+- 🌱 I’m currently learning **Sass, Html5, Css3**
 
 - 👨‍💻 All of my projects are available at [GITHUB](https://github.com/amir-ko)
 
