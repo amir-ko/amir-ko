@@ -1,27 +1,30 @@
-<h1 align="center">Hi 👋, I'm Amirreza kokabi</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
+# 💫 About Me:
+🔭 I’m currently looking for work<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about frontend<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amir-ko&label=Profile%20views&color=0e75b6&style=flat" alt="amir-ko" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amir-ko" alt="amir-ko" /></a> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/amirrezakokabiweb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amirreza-kokabi) 
 
-- 👨‍💻 All of my projects are available at [https://github.com/amir-ko](https://github.com/amir-ko)
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=amir-ko&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=amir-ko&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amir-ko&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 💬 Ask me about **HTML5,CSS3,BOOTSTRAP**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=amir-ko&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
-- 📫 How to reach me **amirreza.ko71@gmail.com**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/amirreza-kokabi-a8680a255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amirreza-kokabi-a8680a255" height="30" width="40" /></a>
-<a href="https://instagram.com/amirkokabiweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amirkokabiweb" height="30" width="40" /></a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=amir-ko&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amir-ko&show_icons=true&locale=en&layout=compact" alt="amir-ko" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=amir-ko&icon=5&color=5)](https://visitcount.itsvg.in)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amir-ko&show_icons=true&locale=en" alt="amir-ko" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amir-ko&" alt="amir-ko" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
